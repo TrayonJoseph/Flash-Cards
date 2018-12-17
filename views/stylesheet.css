@@ -1,0 +1,11 @@
+section.front{
+    background-color: azure;
+    color: aqua;
+    font-family: cursive;
+}
+
+section.back{
+    background-color: black;
+    color: aqua;
+    font-family: cursive;
+}
